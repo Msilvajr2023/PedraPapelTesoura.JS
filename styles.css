@@ -19,7 +19,7 @@ body {
   
   /* Container with the background image */
   .container {
-    background: url('https://i0.wp.com/heroisx.com/wp-content/uploads/2015/07/pedra_papel_tesoura.jpg?resize=600%2C484') no-repeat center center/cover;
+    background: url('https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-6e9c-51f7-a313-0612e0481608/raw?se=2025-04-07T21%3A11%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=5b0a2593-e309-58f7-946b-d94589ca4f75&skoid=fa7966e7-f8ea-483c-919a-13acfd61d696&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-07T19%3A28%3A20Z&ske=2025-04-08T19%3A28%3A20Z&sks=b&skv=2024-08-04&sig=9xs5dS%2BD0UyrM3Jzr8mbPeghig/H9NnHBynieDxK4oA%3D') no-repeat center center/cover;
     min-height: 100vh;
     display: flex;
     justify-content: center;
